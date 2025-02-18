@@ -2,7 +2,7 @@
 Quête WCS logs Apache sous Linux
 
 
-# 1) Après avoir installé un distribution Linux Debian, un serveur web sous Apache et généré du traffic web, se rendre dans le repertoire /var/log/apache2
+## 1) Après avoir installé un distribution Linux Debian, un serveur web sous Apache et généré du traffic web, se rendre dans le repertoire /var/log/apache2
 
 ![Log Linux](https://github.com/Hebus79/Quete_logs_Linux/blob/main/1-log.png)
 
