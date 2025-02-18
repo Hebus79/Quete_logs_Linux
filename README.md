@@ -19,3 +19,6 @@ Quête WCS logs Apache sous Linux
 
 
 ![Log Linux](https://github.com/Hebus79/Quete_logs_Linux/blob/main/3-log.png)
+
+
+Sur cette image nous pouvons voir des requetes sur l'adresse IP 127.0.1.1 avec des codes 404 et 200
